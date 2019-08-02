@@ -1,5 +1,5 @@
 name := "sangria-streaming-api"
-organization := "org.sangria-graphql"
+organization := "com.github.pjfanning.sangria"
 version := "1.0.1-SNAPSHOT"
 
 description := "Sangria Streaming API"
